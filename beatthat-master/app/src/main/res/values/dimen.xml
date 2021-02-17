@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beat_that_font">50sp</dimen>
+    <dimen name="select_font">30sp</dimen>
+</resources>
